@@ -1,0 +1,5 @@
+git Bash here
+git init
+git status
+git add
+git commit -m"版本"
