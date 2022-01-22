@@ -10,3 +10,4 @@ git reset --mix "版本号"
 git reset --hard "版本号"
 git branch
 git branch 分支名
+git checkout 分支名
